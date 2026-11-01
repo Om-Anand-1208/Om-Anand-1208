@@ -32,6 +32,7 @@ I build software and explore ideas across Android, the web, games, and interacti
 - [eUdyaan](https://github.com/Om-Anand-1208/eUdyaan) — an Android mental-wellness prototype for reflection, community and support.
 - [Flood Monitoring System](https://github.com/Om-Anand-1208/Flood-Monitoring-System) — a Streamlit dashboard exploring flood risk and machine learning.
 - [Graviton](https://github.com/Noaman-Akhtar/Graviton) — a collaborative arcade runner around a black hole.
+- [Cubenikal](https://github.com/Snehan23051630/Cubenikal) — a 3D sliding-block puzzle; contributed [configurable rectangular and uneven puzzles](https://github.com/Snehan23051630/Cubenikal/pull/2).
 
 ## Currently building
 
