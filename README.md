@@ -1,7 +1,7 @@
 # Om Anand
 
 I build software and explore ideas across Android, the web, games, and interactive 3D. I enjoy taking projects from an early experiment to something people can explore and use.
-visit my [[workspace] (https://omanand.vercel.app)]
+Visit [my workspace](https://omanand.vercel.app).
 
 ## Connect
 
@@ -27,7 +27,7 @@ visit my [[workspace] (https://omanand.vercel.app)]
 
 ## Selected projects
 
-- [Om’s Workspace](https://github.com/Om-Anand-1208/Om-Portfolio) — an interactive 3D portfolio built with Astro, Three.js and Blender.
+- [Om’s Workspace](https://github.com/Om-Anand-1208/Om-Workspace) — an interactive 3D portfolio built with Astro, Three.js and Blender.
 - [SurferFlow](https://github.com/Om-Anand-1208/SurferFlow) — a procedural surfing playground with a changing coast and day-night cycle.
 - [Guess Whose Song](https://github.com/Om-Anand-1208/Guess-Whose-Song) — a multiplayer music quiz for Android with a Ktor backend.
 - [eUdyaan](https://github.com/Om-Anand-1208/eUdyaan) — an Android mental-wellness prototype for reflection, community and support.
