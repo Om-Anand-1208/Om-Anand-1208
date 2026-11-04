@@ -5,13 +5,13 @@ Visit [my workspace](https://omanand.vercel.app).
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Om-Anand-1208) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/om-anand-8bb7242b2) · [![Codolio](https://img.shields.io/badge/Codolio-292929?style=flat-square)](https://codolio.com/profile/om_anand_7323)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Om-Anand-1208) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/om-anand-8bb7242b2) · [![Codolio](https://img.shields.io/badge/Codolio-292929?style=flat-square)](https://codolio.com/profile/om_anand_7323) · [![Email](https://img.shields.io/badge/Email-om.anand.7323%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:om.anand.7323@gmail.com)
 
 ## Tech stack
 
 **Languages**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E6B91E?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-E6B91E?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 **Android & web**
 
